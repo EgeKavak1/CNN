@@ -86,21 +86,21 @@ Karmaşıklık Matrisi (Model 4 Hibrit - SVC)
 
 Hibrit modelin (SVC) test sonuçlarına ait sınıflandırma raporu (çıktılardan alınmıştır):
 
-              precision    recall  f1-score   support
+                 precision    recall  f1-score   support
 
-    airplane       0.89      0.89      0.89       1000 
+      airplane       0.89      0.89      0.89       1000 
     automobile       0.95      0.94      0.95       1000
-        bird       0.89      0.88      0.89       1000
-         cat       0.80      0.81      0.80       1000
-        deer       0.90      0.90      0.90       1000
-         dog       0.84      0.83      0.84       1000
-        frog       0.95      0.94      0.95       1000
-       horse       0.94      0.95      0.95       1000
-        ship       0.95      0.95      0.95       1000
-       truck       0.96      0.97      0.96       1000
+          bird       0.89      0.88      0.89       1000
+           cat       0.80      0.81      0.80       1000
+          deer       0.90      0.90      0.90       1000
+           dog       0.84      0.83      0.84       1000
+          frog       0.95      0.94      0.95       1000
+         horse       0.94      0.95      0.95       1000
+          ship       0.95      0.95      0.95       1000
+         truck       0.96      0.97      0.96       1000
 
-    accuracy                           0.91       10000
-    macro avg       0.91      0.91      0.91       10000
+        accuracy                           0.91       10000
+       macro avg       0.91      0.91      0.91       10000
     weighted avg       0.91      0.91      0.91       10000
 
 ## 4. Analiz ve Tartışma (Analysis and Discussion)
